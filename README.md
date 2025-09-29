@@ -1,7 +1,7 @@
 ```js
 let aboutMe = {
   name: {
-    first: 'Christopher'
+    first: 'Christopher',
     last: 'Nzenwata',
   },
   career: 'Frontend Developer',
