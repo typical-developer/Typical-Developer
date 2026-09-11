@@ -5,7 +5,7 @@ let aboutMe = {
     last: 'Nzenwata',
   },
   career: 'Frontend Developer',
-  stack: ['html', 'css', 'javaScript', 'scss', 'tailwind', 'react'],
+  stack: ['HTML', 'CSS', 'JavaScript', 'SCSS', 'Tailwind', 'React', 'NEXT JS'],
 {
 // I used "let" because I'm constantly Upskilling
 ```
